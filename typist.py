@@ -58,8 +58,8 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  𝗨𝗕𝗔𝗜𝗗 𝗞𝗛𝗔𝗡
-\033[1;96mInst𝗔  ************
-\033[1; FACEBOOK.  UBAID KHAN
+\033[1;96mInst.   https://www.instagram.com/invites/contact/?i=1ro2qdnpwp7q7&utm_content=5l4v1ls
+\033[1; FACEBOOK.  https://www.facebook.com/ubaidtypist
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SYEDRAHIM15/Ubaid
 \033[1;91m======================================="""
 
@@ -82,8 +82,8 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor   UBAID KHAN
-\033[1;96mInstagram ************
-\033[1;96mFacebook  Ubaid Khan
+\033[1;96mInstagram https://www.instagram.com/invites/contact/?i=1ro2qdnpwp7q7&utm_content=5l4v1ls
+\033[1;96mFacebook  https://www.facebook.com/ubaidtypist
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/SYEDRAHIM15/Ubaid
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
